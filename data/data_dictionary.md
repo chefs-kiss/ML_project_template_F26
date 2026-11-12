@@ -1,3 +1,4 @@
+## Data Dictionary
 The following are the features found in edible_plants.csv:
 
 |variable                |class     |description                           |
@@ -23,10 +24,14 @@ The following are the features found in edible_plants.csv:
 |description             |character |General description of the plant. |
 |requirements            |character |Longer text description of the plant requirements. |
 
-
+## Where this was found
 This dataset comes from [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026/2026-02-03):
 
 > This week we're exploring edible plants! The Edible Plant Database (EPD) is an outcome of the GROW Observatory, a European Citizen Science project on growing food, soil moisture sensing and land monitoring. It contains information on 146 edible plant species, including their ideal growing conditions and time to harvest and germination.
 
 > The Edible Plant Database provides data based on geographical location and growing season to answer questions such as 
 "What can I plant now" and "what can I plant that will yield a crop on some future date". "Do plants that require more sunlight also require higher temperatures?" "What cultivation classes require the most water?"
+
+## Additional background research
+
+This is where you can add related work or other code examples of folks using your dataset (or a similar dataset).
